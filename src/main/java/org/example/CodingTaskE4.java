@@ -4,6 +4,11 @@ public class CodingTaskE4 {
 
     public static void main(String[] args) {
 
+    /* Create a 2D array of integers. Develop a program which will calculate the
+       sum of even and odd numbers for that array.
+    */
+
+
         int[][] values = {
                 {101, 13, 44},
                 {62, 111, 102},
@@ -13,6 +18,8 @@ public class CodingTaskE4 {
             int evenSum = 0;
             int oddSum = 0;
 
+
+    // for loop/ nested for loop example
         for (int i = 0; i < values.length; i++) {
 
             for (int j = 0; j < values[j].length; j++) {
