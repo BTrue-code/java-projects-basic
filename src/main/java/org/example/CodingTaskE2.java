@@ -23,12 +23,8 @@ public class CodingTaskE2 {
 
 
     //Enhanced for loop example
-        for (int value : values) {
-            value =+ sum1;
-        }
-        for (int value : values) {
-            value += sum2;
-        }
+        for (int value : values)  value += sum1;
+        for (int value : values) value += sum2;
         System.out.println("The total sum of my array is: " + sum1);
         System.out.println("The total sum of my array is: " + sum2);
     }
