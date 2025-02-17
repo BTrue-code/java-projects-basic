@@ -35,10 +35,5 @@ public class CodingTaskE10 {
         }
 
 
-    // Example using Enhanced for loop
-        for(String month : myArray) {
-
-        }
-
     }
 }
