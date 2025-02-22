@@ -35,8 +35,6 @@ public class CodingTaskE1 {
         }
         System.out.println("Highest temperature this week is: " + highestTemp + "°F");
         System.out.println("Lowest temperature this week is: " + lowestTemp + "°F");
-
-
     }
 
 }
